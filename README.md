@@ -1,5 +1,5 @@
 
-- ## Oiii eu sou Alefe, bem-vinde :D!
+- ## Oiii eu sou Alefe, bem-vindo :D!
 🏳️‍🌈
 <div>
   <a href="https://github.com/devlele">
@@ -21,5 +21,7 @@
 <div> 
   <a href ="https://wa.me/5515991272979"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/alefe-freitas-santos-249a17303/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href = "alefe.freitas1@hotmail.com"><img src="https://img.shields.io/badge/-hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:alefe.freitas1@hotmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 </div>
